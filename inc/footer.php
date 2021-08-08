@@ -107,7 +107,7 @@
                 <div class="copyright_wrap_inner">
                     <div class="content_wrap_outer">
                         <div class="content_wrap">
-                            <div class="copyright_text">Smich Pharma © 2021 All Rights Reserved. | Made with &hearts; by <a href="www.nojo.co.ke">Nojo LLP</a></div>
+                            <div class="copyright_text">Smich Pharma © 2021 All Rights Reserved. | Made with &hearts; by <a href="https://nojo.co.ke/" target="_blank">Nojo LLP</a></div>
                         </div>
                     </div>
                 </div>
