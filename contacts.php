@@ -41,7 +41,7 @@
                                                                     <div class="sc_services_item_content">
                                                                         <h4 class="sc_services_item_title">Our Adress</h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Zakayos, Nakuru-Kenya</p>
+                                                                            <p>Nirvana Building, Nakuru-Kenya</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -50,7 +50,7 @@
                                                                     <div class="sc_services_item_content">
                                                                         <h4 class="sc_services_item_title">Phone</h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Office ++254723216264</p>
+                                                                            <p>Office +254723216264</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -185,8 +185,7 @@
             </div>
 
             <!-- google map -->
-            <div class="sc_googlemap" style="padding-bottom: 15%;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d857.109947249581!2d36.07097830830944!3d-
-                0.3079504189360007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18298e0c440261c9%3A0xef792276f9bf23f7!2sZakayos%2C%20Nakuru!5e0!3m2!1sen!2ske!4v1627923852797!5m2!1sen!2ske" 
+            <div class="sc_googlemap" style="margin-bottom: 15%;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2701.577141102535!2d36.06867705761085!3d-0.3095620686223801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18298e0d0b0e808f%3A0xf13768d1f68484c0!2sRace%20Track%20Primary%20School%2C%20Nakuru!5e0!3m2!1sen!2ske!4v1629179011986!5m2!1sen!2ske" 
                 width="1600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
 <!-- end of google map -->
 

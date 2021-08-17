@@ -13,7 +13,11 @@
     <link rel='stylesheet' href='js/vendor/woo/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
     <link rel='stylesheet' href='js/vendor/woo/woocommerce.css' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/woo/plugin.woocommerce.css' type='text/css' media='all' />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     
+    <script src="https://kit.fontawesome.com/59443dfeb1.js" crossorigin="anonymous"></script>
+
     <link rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/style.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/core.animation.css' type='text/css' media='all' />
@@ -26,6 +30,9 @@
     <link rel='stylesheet' href='css/custom.css' type='text/css' media='all' />
     <link rel='stylesheet' href='css/core.messages.css' type='text/css' media='all' />
     <link rel='stylesheet' href='js/vendor/swiper/swiper.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' href='css/smich.css' type='text/css' media='all' />
+    
+    
 <style>
     h1{
         font-weight:800;
@@ -105,7 +112,7 @@
                                     <ul id="menu_main" class="menu_main_nav">
                                         <li class="menu-item current-menu-ancestor current-menu-parent"><a href="index.php"><span>HOME</span></a></li>
                                         <li class="menu-item"><a href="about.php"><span>ABOUT US</span></a></li>
-                                        <li class="menu-item menu-item-has-children"><a href="#"><span>PRODUCTS</span></a>
+                                        <!-- <li class="menu-item menu-item-has-children"><a href="#"><span>PRODUCTS</span></a>
                                             <ul class="sub-menu">
                                                 <li class="menu-item"><a href="shop.php"><span>Anti Allergic treatment</span></a></li>
                                                 <li class="menu-item"><a href="shop.php"><span>Ophthalmic eye drops & devices</span></a></li>
@@ -114,7 +121,7 @@
                                                 <li class="menu-item"><a href="shop.php"><span>Diabetes products and devices</span></a></li>
                                                 <li class="menu-item"><a href="shop.php"><span>Nutrition and dietary supplements</span></a></li>
                                             </ul>
-                                        </li>
+                                        </li> -->
                                         <li class="menu-item"><a href="faq.php"><span>FAQs</span></a></li>
                                         <li class="menu-item"><a href="contacts.php"><span>CONTACT</span></a></li>
                                     </ul>

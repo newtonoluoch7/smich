@@ -14,7 +14,7 @@
                                         solutions to the ever changing healthcare needs through the sourcing
                                         and commercialization of innovative and affordable healthcare
                                         products.                             <br />
-                                        <br /> We offers a diversified range of top quality healthcare
+                                        <br /> We offer a diversified range of top quality healthcare
                                         products in <a href="shop.php">different therapeutic areas.</a>
                                     </div>
 

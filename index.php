@@ -91,8 +91,8 @@
                                                                             <a href="single-service.html">Anti Allergic treatment</a>
                                                                         </h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Lorem, ipsum dolor sit amet consectetur, odit culpa voluptatum dignissimos iusto quidem similique ratione quia dolor
-                                                                                 blanditiis hic voluptatibus illum quod, corporis sunt temporibus eligendi?</p>
+                                                                            <p>Smich pharma offers a combination treatment in the management 
+                                                                                of allergy.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -107,8 +107,8 @@
                                                                             <a href="single-service.html">Ophthalmic eye drops & devices</a>
                                                                         </h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Lorem, ipsum dolor sit amet consectetur, odit culpa voluptatum dignissimos iusto quidem similique ratione quia dolor
-                                                                                blanditiis hic voluptatibus illum quod, corporis sunt temporibus eligendi?</p>
+                                                                            <p>Smich pharma offers a range of products for the management of
+                                                                                ocular conditions. We also provide a range of quality ophthalmic devices used in surgeries.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -123,8 +123,8 @@
                                                                             <a href="single-service.html">Pain relief sprays</a>
                                                                         </h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Lorem, ipsum dolor sit amet consectetur, odit culpa voluptatum dignissimos iusto quidem similique ratione quia dolor
-                                                                                blanditiis hic voluptatibus illum quod, corporis sunt temporibus eligendi?</p>
+                                                                            <p>Smich pharma offers pain relief sprays used for the relief of sports
+injuries.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -139,8 +139,8 @@
                                                                             <a href="single-service.html">Cardiology products</a>
                                                                         </h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Lorem, ipsum dolor sit amet consectetur, odit culpa voluptatum dignissimos iusto quidem similique ratione quia dolor
-                                                                                blanditiis hic voluptatibus illum quod, corporis sunt temporibus eligendi?</p>
+                                                                            <p>Smich pharma offers a range of products used in the management of
+                                                                                various cardiac conditions.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -155,8 +155,8 @@
                                                                             <a href="single-service.html">Diabetes products & devices</a>
                                                                         </h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Lorem, ipsum dolor sit amet consectetur, odit culpa voluptatum dignissimos iusto quidem similique ratione quia dolor
-                                                                                blanditiis hic voluptatibus illum quod, corporis sunt temporibus eligendi?</p>
+                                                                            <p>Smich pharma offers a range of products used in the medical
+                                                                                management of diabetes. We also offer a range of devices used in the monitoring of blood glucose in diabetic patients.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -171,8 +171,7 @@
                                                                             <a href="single-service.html">Nutrition & dietary supplements.</a>
                                                                         </h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Lorem, ipsum dolor sit amet consectetur, odit culpa voluptatum dignissimos iusto quidem similique ratione quia dolor
-                                                                                blanditiis hic voluptatibus illum quod, corporis sunt temporibus eligendi?</p>
+                                                                            <p>Smich pharma offers a range of nutritional and dietary supplements aimed at improving your general well being.</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -429,7 +428,7 @@
                                                                         <div class="sc_services_item_content">
                                                                             <h4 class="sc_services_item_title">Our Adress</h4>
                                                                             <div class="sc_services_item_description">
-                                                                                <p>Zakayos, Nakuru-Kenya</p>
+                                                                                <p>Nirvana Building, Nakuru-Kenya</p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
