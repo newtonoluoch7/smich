@@ -41,7 +41,9 @@
                                                                     <div class="sc_services_item_content">
                                                                         <h4 class="sc_services_item_title">Our Adress</h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Nirvana Building, Nakuru-Kenya</p>
+                                                                            <p>Building - Nirvana Building<br>
+                                                                             Street/Road - Makueni Street, off Eldoret Avenue, Racetrack, Nakuru Town
+                                                                            </p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
