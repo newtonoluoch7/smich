@@ -142,7 +142,7 @@
                                                         <h5 class="sc_accordion_title">
                                                             <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
                                                             <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
-                                                            9.	What are your credit terms?
+                                                            What are your credit terms?
                                                         </h5>
                                                         <div class="sc_accordion_content">
                                                             <div class="wpb_text_column wpb_content_element ">
