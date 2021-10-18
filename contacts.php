@@ -52,7 +52,7 @@
                                                                     <div class="sc_services_item_content">
                                                                         <h4 class="sc_services_item_title">Phone</h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Office +254723216264</p>
+                                                                            <p>Office +254 710 199500</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>

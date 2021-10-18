@@ -12,16 +12,16 @@
                                     <!-- <img src="images/drugs/" alt="" data-ww="623px" data-hh="517px" width="623" height="517" data-no-retina> -->
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text2 tp-resizeme" id="slide-1-layer-2" data-x="35" data-y="255" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","speed":1000,"to":"o:1;","delay":1000,"ease":"Power2.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    Smich Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> deserunt repudiandae debitis sapiente quibusdam! 
-                                    Cupiditate omnis  <br> in voluptates ipsumassumenda necessitatibus dolores ut!
+                                    At Smich Pharma we maintain integrity in every step of our business <br> 
+                                    We ensure that the products we supply meet the regulatory standards.
                                     
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text tp-resizeme button" id="slide-1-layer-3" data-x="35" data-y="340" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","speed":1500,"to":"o:1;","delay":1500,"ease":"Power4.easeOut"},{"delay":3750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    <a href="contacts.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Request Quote</a>
+                                    <a href="about.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Request Quote</a>
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-header tp-resizeme" id="slide-1-layer-4" data-x="35" data-y="143" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","speed":1500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                <p style="font-weight:700;"> High Innovative Technology
-                                    <br/> For Phamaceutical Products </p>
+                                <p style="font-weight:700;"> Quality, efficacious & affordable 
+                                    <br/>Phamaceutical Products </p>
                                 </div>
                             </li>
                             <li data-index="rs-4" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="images/01_slider-background-100x50.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
@@ -30,11 +30,11 @@
                                     <!-- <img src="images/" alt="" data-ww="623px" data-hh="517px" width="623" height="517" data-no-retina> -->
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text2 tp-resizeme" id="slide-4-layer-2" data-x="35" data-y="255" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":500,"ease":"Power3.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                Pharma Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> deserunt repudiandae debitis sapiente quibusdam! 
-                                    Cupiditate omnis  <br> in voluptates ipsumassumenda necessitatibus dolores ut!
+                                We aim to supply up to date medical equipment <br> & we do this with a sincere desire to give our 
+                                    clients the best. <br>
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-text tp-resizeme button" id="slide-4-layer-3" data-x="35" data-y="340" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;","speed":1500,"to":"o:1;","delay":500,"ease":"Power3.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                    <a href="shop.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">See Products</a>
+                                    <a href="contacts.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Contact us</a>
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-header tp-resizeme" id="slide-4-layer-4" data-x="35" data-y="143" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":500,"ease":"Power3.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
                                 <p style="font-weight:700;"> We are Located in Nakuru
@@ -203,12 +203,12 @@ injuries.</p>
                                                         <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p>
-                                                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex laborum non quisquam praesentium possimus maiores. Similique voluptas 
-                                                                    odio numquam doloribus, minus mollitia recusandae, debitis consequuntur, molestias corporis blanditiis id in!
+                                                                    We are reliable; besides the fact that our prices are fair and our products are all within the regulation standards, customer
+                                                                    Satisfaction is top on our priorities. 
                                                                 </p>
                                                             </div>
                                                         </div>
-                                                        <a href="about.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium margin_top_small margin_bottom_huge bgc_4">Read More</a>
+                                                        <a href="about.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium margin_top_small margin_bottom_huge bgc_4">Read More</a>
                                                         <div class="vc_empty_space space_20p">
                                                             <span class="vc_empty_space_inner"></span>
                                                         </div>
@@ -229,7 +229,7 @@ injuries.</p>
                                                 <div id="sc_call_to_action_700" class="sc_call_to_action sc_call_to_action_accented sc_call_to_action_style_1 sc_call_to_action_align_center">
                                                     <div class="sc_call_to_action_info">
                                                         <h3 class="sc_call_to_action_title sc_item_title" style="font-weight:800;">Get in touch with Us.</h3>
-                                                        <div class="sc_call_to_action_descr sc_item_descr">Request Quote or call +254,723216264</div>
+                                                        <div class="sc_call_to_action_descr sc_item_descr">Request Quote or call +254 710 199500</div>
                                                         <div class="sc_call_to_action_buttons sc_item_buttons">
                                                             <div class="sc_call_to_action_button sc_item_button">
                                                                 <a href="contacts.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium">Request Quote</a>
@@ -319,7 +319,8 @@ injuries.</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="vc_row-full-width"></div>
+
+                                <!-- <div class="vc_row-full-width"></div>
                                 <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1457963984421 scheme_dark">
                                     <div class="wpb_column vc_column_container vc_col-sm-12">
                                         <div class="vc_column-inner ">
@@ -400,7 +401,8 @@ injuries.</p>
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
+
                                 <!-- <div class="vc_row-full-width"></div>
                                 <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding">
                                     <div class="wpb_column vc_column_container vc_col-sm-12">

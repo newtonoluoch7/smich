@@ -35,8 +35,7 @@
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                                                                    Simply by placing an order through our phone numbers or email address captured on our contacts tab.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -46,36 +45,19 @@
                                                         <h5 class="sc_accordion_title">
                                                             <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
                                                             <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
-                                                            Are You Cerfified by Pharmcist and Poisons Board?
+                                                            Are You Cerfified by Pharmacy and Poisons Board?
                                                         </h5>
                                                         <div class="sc_accordion_content">
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                                                                    Yes, Smich Pharma is duly certified with the PPB as a wholesale distributor.
                                                                     </p>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="sc_accordion_item">
-                                                        <h5 class="sc_accordion_title">
-                                                            <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
-                                                            <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
-                                                            Can I buy using credit?.
-                                                        </h5>
-                                                        <div class="sc_accordion_content">
-                                                            <div class="wpb_text_column wpb_content_element ">
-                                                                <div class="wpb_wrapper">
-                                                                    <p>
-                                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-                                                                    </p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                    
                                                     <div class="sc_accordion_item">
                                                         <h5 class="sc_accordion_title">
                                                             <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
@@ -86,8 +68,7 @@
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                                                                    The deliveries are within 24hours across most parts of the country.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -103,8 +84,7 @@
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                                                                    We are not currently selling laboratory equipments.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -120,8 +100,7 @@
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                                                                    This rarely happens but in the unlikely event that it occurs, we will happily replace the damaged goods and get to the bottom to ascertain what might have happened in order to avoid such an occurrence in the future.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -137,8 +116,7 @@
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                                                                    We are selling some protective devices including KN95 masks and gloves.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -154,8 +132,7 @@
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                                                                    Smich Pharma embodies high integrity in all our interactions with exceptional customer service making us a reliable partner for all our stakeholders.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -165,14 +142,13 @@
                                                         <h5 class="sc_accordion_title">
                                                             <span class="sc_accordion_icon sc_accordion_icon_closed icon-plus"></span>
                                                             <span class="sc_accordion_icon sc_accordion_icon_opened icon-minus"></span>
-                                                            Can I buy on Higher purchase?
+                                                            9.	What are your credit terms?
                                                         </h5>
                                                         <div class="sc_accordion_content">
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                       Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                                                                    These range from between 30-60 days depending on the account. We always strive to work out an arrangement that is convenient for both parties.
                                                                     </p>
                                                                 </div>
                                                             </div>
@@ -188,8 +164,7 @@
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
                                                                     <p>
-                                                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                                                                        Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+                                                                    Smich Pharma has a current certificate of tax compliance from KRA.
                                                                     </p>
                                                                 </div>
                                                             </div>
