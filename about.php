@@ -131,29 +131,28 @@
                                            at delivering better patient outcomes.</p> 
                                     </div>
 
-                                    <div class="col-md-3 text-center">
+
+                                     <div class="col-md-3 text-center">
+                                     <i class="fas fa-users"></i>
+                                        <h4 class="sc_services_item_title"> Team Work</h4> 
+                                        <p>We work together to ensure better patient outcomes. At the core of this is the esprit de corps
+                                            that exists amongst our associates.</p> 
+                                     </div>
+
+                                     <div class="col-md-3 text-center">
+                                     <i class="fas fa-laptop-medical"></i>
+                                        <h4 class="sc_services_item_title">Diligence</h4> 
+                                        <p>We believe in going the extra mile to ensure that we are able to deliver our health solutions to
+                                            patients.</p> 
+                                     </div>
+
+                                     <div class="col-md-3 text-center">
                                     <i class="fas fa-briefcase"></i>
                                         <h4 class="sc_services_item_title">Professionalism</h4> 
                                         <p>Our associates conduct themselves with the highest levels of etiquette. We strive to 
                                             ensure that our engagements with all of our key stakeholders reflect our culture of great respect 
                                             and consideration.
                                         </p> 
-                                     </div>
-
-                                     <div class="col-md-3 text-center">
-                                     <i class="fas fa-users"></i>
-                                        <h4 class="sc_services_item_title"> Team Work</h4> 
-                                        <p>We put ethics ahead in everything that we do. Always doing the right thing even 
-                                            when no one is looking at us. We put the patients first and ensure that our ethical acts are aimed 
-                                            at delivering better patient outcomes.</p> 
-                                     </div>
-
-                                     <div class="col-md-3 text-center">
-                                     <i class="fas fa-laptop-medical"></i>
-                                        <h4 class="sc_services_item_title">Diligence</h4> 
-                                        <p>We put ethics ahead in everything that we do. Always doing the right thing even 
-                                            when no one is looking at us. We put the patients first and ensure that our ethical acts are aimed 
-                                            at delivering better patient outcomes.</p> 
                                      </div>
                                 </div>
                             </div>

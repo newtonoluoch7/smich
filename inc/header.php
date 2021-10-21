@@ -54,9 +54,9 @@
                     <div class="top_panel_top" style="background-color: #00adff; color: white;">
                         <div class="content_wrap clearfix">
                             <div class="top_panel_top_contact_area icon-mobile-light">
-                                Contact <strong>+254723216264</strong>
+                                Contact <strong>+254 739 949800</strong>
                             </div>
-                            <div class="top_panel_top_open_hours icon-calendar-light">Mn - St: <strong>8:00am - 9:00pm</strong> Sn: Closed</div>
+                            <div class="top_panel_top_open_hours icon-calendar-light">Mn - St: <strong>8:00am - 5:00pm</strong> Sn: Closed</div>
                             <div class="top_panel_top_user_area">
                                 <div class="top_panel_top_socials">
                                     <div class="sc_socials sc_socials_type_icons sc_socials_shape_square sc_socials_size_tiny">

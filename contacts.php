@@ -39,7 +39,7 @@
                                                                 <div id="sc_services_604_1" class="sc_services_item">
                                                                     <span class="sc_icon icon-location-light"></span>
                                                                     <div class="sc_services_item_content">
-                                                                        <h4 class="sc_services_item_title">Our Adress</h4>
+                                                                        <h4 class="sc_services_item_title">Our Address</h4>
                                                                         <div class="sc_services_item_description">
                                                                             <p>Building - Nirvana Building<br>
                                                                              Street/Road - Makueni Street, off Eldoret Avenue, Racetrack, Nakuru Town
@@ -48,14 +48,25 @@
                                                                     </div>
                                                                 </div>
                                                                 <div id="sc_services_604_2" class="sc_services_item">
+                                                                    <span class="sc_icon icon-mail-light"></span>
+                                                                    <div class="sc_services_item_content">
+                                                                        <h4 class="sc_services_item_title">Email</h4>
+                                                                        <div class="sc_services_item_description">
+                                                                            <p>info@smichpharma.co.ke</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                                <div id="sc_services_604_2" class="sc_services_item">
                                                                     <span class="sc_icon icon-mobile-light"></span>
                                                                     <div class="sc_services_item_content">
                                                                         <h4 class="sc_services_item_title">Phone</h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Office +254 710 199500</p>
+                                                                            <p>Office +254 739 949800</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
+
                                                                 <div id="sc_services_604_3" class="sc_services_item">
                                                                     <span class="sc_icon icon-calendar-light"></span>
                                                                     <div class="sc_services_item_content">

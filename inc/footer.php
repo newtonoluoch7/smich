@@ -15,7 +15,7 @@
                                         and commercialization of innovative and affordable healthcare
                                         products.                             <br />
                                         <br /> We offer a diversified range of top quality healthcare
-                                        products in <a href="shop.php">different therapeutic areas.</a>
+                                        products in <a href="index.php">different therapeutic areas.</a>
                                     </div>
 
                                     <!--Open Social media -->
@@ -56,12 +56,12 @@
                                             <ul>
                                                 <li><a href="about.php">About Us</a> </li>
                                             
-                                            <li><a href="shop.php">Anti Allergic treatment</a> </li> 
-                                            <li> <a href="shop.php">Ophthalmic eye drops & devices</a> </li> 
-                                            <li> <a href="shop.php">Pain relief sprays</a> </li> 
-                                            <li> <a href="shop.php">Cardiology products</a> </li> 
-                                            <li> <a href="shop.php">Diabetes products and devices</a> </li> 
-                                            <li> <a href="shop.php">Nutrition and dietary supplements</a> </li> 
+                                            <li><a href="index.php">Anti Allergic treatment</a> </li> 
+                                            <li> <a href="index.php">Ophthalmic eye drops & devices</a> </li> 
+                                            <li> <a href="index.php">Pain relief sprays</a> </li> 
+                                            <li> <a href="index.php">Cardiology products</a> </li> 
+                                            <li> <a href="index.php">Diabetes products and devices</a> </li> 
+                                            <li> <a href="index.php">Nutrition and dietary supplements</a> </li> 
                                         </ul>
                                         </h6>
                                        
