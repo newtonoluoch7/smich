@@ -52,7 +52,7 @@
                                                                     <div class="sc_services_item_content">
                                                                         <h4 class="sc_services_item_title">Email</h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>info@smichpharma.co.ke</p>
+                                                                            <p>smichpharma@gmail.com</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -72,7 +72,7 @@
                                                                     <div class="sc_services_item_content">
                                                                         <h4 class="sc_services_item_title">Open Hours</h4>
                                                                         <div class="sc_services_item_description">
-                                                                            <p>Mn - St: 8:00am - 9:00pm Sn: Closed</p>
+                                                                            <p>Mn - St: 8:00am - 5:00pm Sn: Closed</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>

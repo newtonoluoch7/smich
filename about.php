@@ -7,7 +7,7 @@
                     <div class="content_wrap">
                         <h1 class="page_title" style="font-weight:800;">About Us</h1>
                         <div class="breadcrumbs">
-                            <a class="breadcrumbs_item home" href="index.html">Home</a>
+                            <a class="breadcrumbs_item home" href="index.php">Home</a>
                             <span class="breadcrumbs_delimiter"></span>
                             <span class="breadcrumbs_item current">About Us</span>
                         </div>
@@ -102,7 +102,7 @@
                                                     <div class="sc_call_to_action_info">
                                                         <h3 class="sc_call_to_action_title sc_item_title" style="font-weight:800;">Quality, efficacious
                                                                                                                                     & affordable products</h3>
-                                                        <div class="sc_call_to_action_descr sc_item_descr">Request Quote or call +254,723216264</div>
+                                                        <div class="sc_call_to_action_descr sc_item_descr">Request Quote or call +254 739 949800</div>
                                                         <div class="sc_call_to_action_buttons sc_item_buttons">
                                                             <div class="sc_call_to_action_button sc_item_button">
                                                                 <a href="#" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium">Request Quote</a>
