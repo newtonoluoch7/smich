@@ -20,7 +20,7 @@
                                     <a href="about.php" class="sc_button sc_button_square sc_button_style_filled sc_button_size_medium alignleft">Request Quote</a>
                                 </div>
                                 <div class="tp-caption dentrarario-home1-static-header tp-resizeme" id="slide-1-layer-4" data-x="35" data-y="143" data-width="['auto']" data-height="['auto']" data-type="text" data-responsive_offset="on" data-frames='[{"from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","speed":1500,"to":"o:1;","delay":500,"ease":"Power4.easeOut"},{"delay":4750,"speed":1000,"to":"opacity:0;","ease":"nothing"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]">
-                                <p style="font-weight:700;"> Quality, efficacious and affordable 
+                                <p style="font-weight:700;"> Quality, Efficacious and affordable 
                                     <br/>phamaceutical products </p>
                                 </div>
                             </li>
